@@ -1,5 +1,5 @@
 /*
-  libco.win (2016-09-06)
+  libco.scefiber
   authors: frangarcj
   license: public domain
 */
